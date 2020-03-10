@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'fastlane/plugin/msbuild/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'fastlane-plugin-msbuild'
+  spec.name          = 'fastlane-plugin-msbuild-robinryf'
   spec.version       = Fastlane::Msbuild::VERSION
   spec.author        = %q{Jeff Ward}
   spec.email         = %q{jeff.ward@willowtreeapps.com}
